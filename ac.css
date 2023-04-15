@@ -1,0 +1,50 @@
+body{
+    background-image: url("hatter.png");
+    background-repeat: none;
+    background-attachment: fixed;
+    background-position-x: center;
+    color: #504033;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    margin-left: 250px;
+    margin-right: 250px;
+    line-height: 1,5;
+}
+
+.keret{
+    background-color: white;
+    opacity: 80%;
+    padding: 15px;
+}
+h1, h2{
+    text-decoration: underline;
+    font-size: xx-large;
+    text-align: center;
+}
+
+p{
+    text-indent: 25px;
+}
+
+#emlek{
+    width: 180px;
+    float: left;
+    margin-right: 15px;
+    border: 15px #504033;
+    border-style: groove;
+}
+
+.konyv{
+    height: 300px;
+    float: left;
+}
+
+ul{
+    list-style-image: url(dot.png);
+}
+
+hr{
+    height: 5px;
+    width: 90%;
+    background-color: #504033;
+}
